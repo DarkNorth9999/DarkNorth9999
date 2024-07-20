@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/12/Top-Banner-Kafka-Streams-in-the-Endpoint-Agent.png?fit=970%2C400&ssl=1)](https://www.linkedin.com/in/yash-aggarwal-14933b222/)
+<!--[![MasterHead](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/12/Top-Banner-Kafka-Streams-in-the-Endpoint-Agent.png?fit=970%2C400&ssl=1)](https://www.linkedin.com/in/yash-aggarwal-14933b222/)-->
 <h1 align="center">Hi 👋, I'm Yash Aggarwal</h1>
 <h3 align="center">A Full Stack Developer</h3>
 <img img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
