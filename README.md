@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Copious Connection: A realtime video calling and chatting application**
 
-- 🌱 I’m currently learning **rust, web3 technologies**
+- 🌱 I’m learning **rust, web3 technologies**
 
 - 🤝 I’m looking to contribute to **Open Source**
 
